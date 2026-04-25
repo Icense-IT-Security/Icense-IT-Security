@@ -79,6 +79,12 @@ Planned areas:
 - Docker / Kubernetes Security Labs
 
 ---
+## Practical Security Projects
+
+- [Linux Security Hardening Checklist](https://github.com/Icense-IT-Security/linux-security-hardening-checklist)  
+  Practical Linux security baseline review and hardening checklist covering SSH, users, permissions, firewall basics, logging, patch management, service reduction and backup/recovery considerations.
+
+--- 
 
 ## Direction
 
