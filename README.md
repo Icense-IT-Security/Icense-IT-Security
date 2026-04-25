@@ -59,7 +59,7 @@ Currently, I am deepening my cybersecurity profile through the **IT-SecurityPro 
 
 A detailed profile and capability brief is available here:
 
-[Download Christian Pilz – Elite Cybersecurity Profile](./Christian_Pilz_Elite_Cybersecurity_Profile.pdf)
+[Download Cybersecurity Profile & Capability Brief](./Christian_Pilz_Cybersecurity_Profile.pdf)
 
 ---
 
